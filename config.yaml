@@ -16,8 +16,7 @@ settings:
 
 monitors:
   - id: reflare-homepage # unique identifier
-    name: reflare.com
-    description: 'The Reflare main hub' # default=empty
+    name: Reflare Hub
     url: 'https://reflare.com/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
